@@ -5,6 +5,7 @@ public class main {
         System.out.println("你好");
         System.out.println("你好");
         System.out.println("你不好");
+        System.out.println("master test");
 
     }
 }
